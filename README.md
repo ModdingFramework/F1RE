@@ -1,6 +1,10 @@
+<img src="https://raw.githubusercontent.com/ModdingFramework/F1RE/main/Resources/Images/Logo/radiation-gf3b8eee3f_128.png" align=left />
+
 # F1RE
 
-> Demo of using the `Modding Framework` for Fallout 1
+<br />
+
+Demo of using the `Modding Framework` for Fallout 1
 
 ## Languages
 
